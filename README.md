@@ -1,2 +1,2 @@
-# Mahoning Valley Community
-This is an organization that contains repositories related to various Mahoning Valley organizations.
+# .github
+This repository contains special files for customizing the organization on github
